@@ -1,0 +1,24 @@
+black box testing
+1>it is method of software testing that examines 
+the functionality of an application without looking into its internal structures of working
+
+2>it include unit,integration,system,useracceptance testing
+
+3>test are based on requirement and functionality
+examles>>>input--->>>check requirements and events------>>>output
+doesnot bother about its implementation
+
+
+4>>also called behavioural testing
+
+5>>in this method design and stucture of code is not known to tester
+
+
+
+white box testing
+
+1>testing are based on an analysis of the internal structure of component of system
+
+2>it can be applied to all level of sdlc
+
+3>test are based on coverage of code statement, branches, conditions and multiconditions
